@@ -1,2 +1,5 @@
-# CyberTwittter
-A system to analyze technology related threats based on tweets.
+# CyberSemantic
+A system to get updated with latest cyber threats around the world. 
+
+
+WORK IN PROGRESS . . . 
