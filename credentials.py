@@ -3,5 +3,7 @@ ACCESS_TOKEN = ""
 ACCESS_TOKEN_SECRET = ""
 CONSUMER_KEY = ""
 CONSUMER_SECRET = ""
-
-# Register at https://developer.twitter.com/content/developer-twitter/en.html to get API tokens
+#Open Calais tokens
+OPEN_CALAIS = ""
+OPEN_CALAIS_URL = 'https://api.thomsonreuters.com/permid/calais
+'
